@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Ahmad 👋
 
-<!--
-**ahmadaburabee/ahmadaburabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Engineer , who love to code!
+- 💻 Software Engineer at almosafer
+- 📜 studied Computer Engineering at University of Jordan.
+- 👯 I’m looking to collaborate with other passionate developers.
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>Languages and Tools</h3>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,linux,html,css,sass,pug,webpack,jquery,js,ts,nodejs,react,nextjs,tailwindcss,redux,graphql,nestjs,expressjs,mongodb,jest,prisma,aws,git,npm&perline=6" />
+  </a>
+</p>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+	<a href="https://www.linkedin.com/in/ahmad-abu-rabea-ba6305209/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
+</p>
