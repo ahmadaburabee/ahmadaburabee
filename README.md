@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmad 👋
 
-## I'm a Software Engineer , who love to code!
+## I’m a Software Engineer who enjoys solving problems!
 - 💻 Senior Officer Software Engineer at Almosafer
 - 📜 Studied Computer Engineering at University of Jordan.
 - 👯 I’m looking to collaborate with other passionate developers.
